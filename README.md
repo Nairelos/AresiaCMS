@@ -1,5 +1,5 @@
 # AresiaCMS
-Aresia CMS use framework Laravel 5.4.* developpe by Syntax and editing by Nairelos.
+Aresia CMS use framework Laravel 5.4.* developpe by Synthx and editing by Nairelos.
 ![image](https://user-images.githubusercontent.com/22314163/152019196-94858e3c-0168-4193-846b-011649c3a4f7.png)
 
 
