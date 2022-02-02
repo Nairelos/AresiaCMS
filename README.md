@@ -5,9 +5,9 @@ Aresia utilise le Template Trendyblog sous le framework Laravel 5.4.* developpé
 <p align="center"><img src="https://user-images.githubusercontent.com/22314163/152019196-94858e3c-0168-4193-846b-011649c3a4f7.png"></p>
 
 # Installation
-1 • Télécharger l'archive et extraire le contenu du dossier AresiaCMS dans C:/wamp/www/ ou C:/xampp/htdocs/
-2 • Veuillez vous rendre dans config/config.php pour configurer les informations demandées.
-3 • Rendez-vous sur votre base de donnée pour installer les tables SQL pour le bon fonctionnement du CMS.
+1 • Télécharger l'archive et extraire le contenu du dossier AresiaCMS dans C:/wamp/www/ ou C:/xampp/htdocs/<br>
+2 • Veuillez vous rendre dans config/config.php pour configurer les informations demandées.<br>
+3 • Rendez-vous sur votre base de donnée pour installer les tables SQL pour le bon fonctionnement du CMS.<br>
 
 # Fonctionnalités
 <details>
