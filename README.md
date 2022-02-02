@@ -20,7 +20,14 @@ Aresia CMS utilise le Template Trendyblog sous le framework Laravel 5.4.* develo
   <li>Reglement</li>
   <li>Statut des serveurs</li>
   <li>Vote</li>
+  <li>Ladder</li>
+    <ul>PvM</ul>
+    <ul>PvP</ul>
+    <ul>Metier</ul>
+    <ul>Guilde</ul>
+    <ul>Vote</ul>
 </ul>
 
-
+# Crédit :
+<li>Synthx : https://github.com/Synthx/ </li>
 
