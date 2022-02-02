@@ -1,27 +1,26 @@
+<center>![image](https://www.zupimages.net/up/21/50/3igq.png)</center>
+
 # AresiaCMS
-Aresia CMS use framework Laravel 5.4.* developpe by Synthx and editing by Nairelos.
+Aresia CMS utilise le Template Trendyblog sous le framework Laravel 5.4.* developpé par Synthx et modifié par Nairelos.
 ![image](https://user-images.githubusercontent.com/22314163/152019196-94858e3c-0168-4193-846b-011649c3a4f7.png)
 
 
-# Laravel PHP Framework
+# Fonctionnalités :
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable, creative experience to be truly fulfilling. Laravel attempts to take the pain out of development by easing common tasks used in the majority of web projects, such as authentication, routing, sessions, queueing, and caching.
+<ul>
+  <li>Actualités</li>
+   <ul>Commentaire</ul>
+  <li>Nous rejoindre</li>
+  <li>Créer un compte</li>
+  <li>Scrennshots</li>
+  <li>Encyclopedie</li>
+    <ul>Equipements</ul>
+    <ul>Armes</ul>
+    <ul>Ressources</ul>
+  <li>Reglement</li>
+  <li>Statut des serveurs</li>
+  <li>Vote</li>
+</ul>
 
-Laravel is accessible, yet powerful, providing powerful tools needed for large, robust applications. A superb inversion of control container, expressive migration system, and tightly integrated unit testing support give you the tools you need to build any application with which you are tasked.
 
-## Official Documentation
-
-Documentation for the framework can be found on the [Laravel website](http://laravel.com/docs).
-
-## Contributing
-
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](http://laravel.com/docs/contributions).
-
-## Security Vulnerabilities
-
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell at taylor@laravel.com. All security vulnerabilities will be promptly addressed.
-
-## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT)
 
