@@ -2,7 +2,7 @@
 
 # AresiaCMS
 Aresia CMS utilise le Template Trendyblog sous le framework Laravel 5.4.* developpé par Synthx et modifié par Nairelos.
-![image](https://user-images.githubusercontent.com/22314163/152019196-94858e3c-0168-4193-846b-011649c3a4f7.png)
+<p align="center"><img src="https://user-images.githubusercontent.com/22314163/152019196-94858e3c-0168-4193-846b-011649c3a4f7.png"></p>
 
 
 # Fonctionnalités :
